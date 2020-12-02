@@ -1,0 +1,6 @@
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\AlimentLibrary\bin\Debug\AlimentLibrary.dll
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\AlimentLibrary\bin\Debug\AlimentLibrary.pdb
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\AlimentLibrary\obj\Debug\AlimentLibrary.csprojAssemblyReference.cache
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\AlimentLibrary\obj\Debug\AlimentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\AlimentLibrary\obj\Debug\AlimentLibrary.dll
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\AlimentLibrary\obj\Debug\AlimentLibrary.pdb

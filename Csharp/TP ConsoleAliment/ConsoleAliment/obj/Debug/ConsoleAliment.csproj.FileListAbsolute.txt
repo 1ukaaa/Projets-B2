@@ -1,0 +1,10 @@
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\ConsoleAliment\bin\Debug\ConsoleAliment.exe.config
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\ConsoleAliment\bin\Debug\ConsoleAliment.exe
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\ConsoleAliment\bin\Debug\ConsoleAliment.pdb
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\ConsoleAliment\bin\Debug\AlimentLibrary.dll
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\ConsoleAliment\bin\Debug\AlimentLibrary.pdb
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\ConsoleAliment\obj\Debug\ConsoleAliment.csprojAssemblyReference.cache
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\ConsoleAliment\obj\Debug\ConsoleAliment.csproj.CoreCompileInputs.cache
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\ConsoleAliment\obj\Debug\ConsoleAliment.csproj.CopyComplete
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\ConsoleAliment\obj\Debug\ConsoleAliment.exe
+C:\Users\lukam\OneDrive - Ifag Paris\B2\C#\ConsoleAliment - Complet\ConsoleAliment\obj\Debug\ConsoleAliment.pdb
